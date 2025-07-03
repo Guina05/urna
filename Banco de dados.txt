@@ -1,0 +1,77 @@
+use urna_eletronica
+
+db.candidatos.insertOne({
+Numero: "91001",
+Nome: "Golfe",
+Partido: "PEsp"})
+
+db.candidatos.insertOne({
+Numero: "91002",
+Nome: "Beisebol",
+Partido: "PEsp"})
+
+db.candidatos.insertOne({
+Numero: "91003",
+Nome: "Ginastica Artistica",
+Partido: "PEsp"})
+
+db.candidatos.insertOne({
+Numero: "92001",
+Nome: "Rock",
+Partido: "PMus"})
+
+db.candidatos.insertOne({
+Numero: "92002",
+Nome: "Sertanejo",
+Partido: "PMus"})
+
+db.candidatos.insertOne({
+Numero: "92003",
+Nome: "Musica Popular Brasileira",
+Partido: "PMus"})
+
+db.candidatos.insertOne({
+Numero: "93001",
+Nome: "Astronauta",
+Partido: "PProf"})
+
+db.candidatos.insertOne({
+Numero: "93002",
+Nome: "Pintor",
+Partido: "PProf"})
+
+db.candidatos.insertOne({
+Numero: "93003",
+Nome: "Enfermeira",
+Partido: "PProf"})
+
+db.candidatos.insertOne({
+Numero: "94001",
+Nome: "Pascoa",
+Partido: "PFest"})
+
+db.candidatos.insertOne({
+Numero: "94002",
+Nome: "Oktoberfest",
+Partido: "PFest"})
+
+db.candidatos.insertOne({
+Numero: "94003",
+Nome: "Reveillon",
+Partido: "PFest"})
+
+db.candidatos.insertOne({
+Numero: "95001",
+Nome: "Curupira",
+Partido: "PFolc"})
+
+db.candidatos.insertOne({
+Numero: "95002",
+Nome: "Cabrito Cabriola",
+Partido: "PFolc"})
+
+db.candidatos.insertOne({
+Numero: "95003",
+Nome: "Cuca",
+Partido: "PFolc"})
+
